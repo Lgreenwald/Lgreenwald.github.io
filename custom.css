@@ -12,10 +12,10 @@ html {
 
 title {
 	font-family: sans-serif;
-	background-image:url("images/soft_wallpaper.png")
+	
 }
 h1 {
-	font-family: 'Alex brush', cursive;
+	font-family: cursive;
 	font-size: 80px;
 	text-align: center;
 	color: #003d4d;
@@ -24,7 +24,7 @@ h1 {
 h2 {
 	font-size: 35px;
 	text-align: center;
-	font-family: 'Sansita Swashed', cursive;
+	font-family: cursive;
 	color: #05635d;
 	padding-top: 30px;
 }
